@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25944'
     url: http://www.gutenberg.org/2009/agents/25944
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23617#Memoria-hist-rica-geogr-fica-pol-tica-y--con-mica-sobre-la-provincia-de-Misiones-de-indios-gu_
 gutenberg_issued: '2007-11-25'
 gutenberg_type: Text
 identifiers:
