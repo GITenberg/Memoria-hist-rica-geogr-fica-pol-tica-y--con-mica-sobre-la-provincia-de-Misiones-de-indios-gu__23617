@@ -1,0 +1,30 @@
+_repo: Memoria-hist-rica-geogr-fica-pol-tica-y--con-mica-sobre-la-provincia-de-Misiones-de-indios-gu__23617
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doblas, Gonzalo de
+    birthdate: 1744
+    deathdate: 1809
+    gutenberg_agent_id: '25944'
+    url: http://www.gutenberg.org/2009/agents/25944
+description: ''
+gutenberg_issued: '2007-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23617'
+  lccn: 05041830
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guarani Indians'
+- !lcc 'F2661'
+- !lcsh 'Paraguay -- History -- To 1811'
+- !lcsh 'Jesuits -- Paraguay'
+title: Memoria histórica, geográfica, política y éconómica sobre la provincia de Misiones
+  de indios guaranís
+url: http://www.gutenberg.org/ebooks/23617
